@@ -1,0 +1,19 @@
+# Music
+spotipy
+lyricsgenius
+
+# Data
+SQLAlchemy
+psycopg2
+
+# Data science
+numpy
+scipy
+jupyter
+pandas
+spacy
+sklearn
+
+# Tests
+mock
+nose
