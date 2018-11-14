@@ -1,8 +1,12 @@
-from br_quantified.settings.settings import *
+from br_quantified.settings import *
+
+from br_quantified.audio import *
+from br_quantified.lyrics import *
 
 
 def run():
-    logger.info(DEBUG)
+    get_lyrics()
+    get_audio()
 
 
 if __name__ == '__main__':

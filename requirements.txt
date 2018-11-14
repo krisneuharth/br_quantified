@@ -1,6 +1,7 @@
 # Music
 spotipy
 lyricsgenius
+lyricwikia
 
 # Data
 SQLAlchemy
